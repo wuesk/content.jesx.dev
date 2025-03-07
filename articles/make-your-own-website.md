@@ -2,7 +2,7 @@
 
 You have your favorite website, possibly a social media one, where you're posting your content. Be it art, funny cat photos, or memes, you can share them with your online friends and/or followers. But then the website ends up in different owners' hands, the rules get changed, and everything you posted no longer belongs to you. You look for another website, but eventually, the same thing happens.
 
-![img](http://localhost:8080/files/articles/make-your-own-website/bird_butterfly.jpg)
+![img](https://content.jesx.dev/articles/make-your-own-website/bird_butterfly.jpg)
 
 I want to give you a solution: <b>MAKE YOUR OWN WEBSITE</b>. You, and ONLY YOU, decide what's on your website. You can make your own rules. All you need is about $30 a year.
 
